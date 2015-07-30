@@ -2,4 +2,10 @@
 
 Feel free to use it for your server.
 
-Just add the lines from the MilitaryBase.txt to your Altis.h file
+Just copy/paste the lines from the MilitaryBase.txt to your Altis.h file right after :
+
+//Air Drop Event Helipad Start
+{ "Land_dp_bigTank_F", { 14328.1, 13488.2, -0.64909101 }, 182, true },
+
+
+Don`t forget the comma behind the helipad line!
