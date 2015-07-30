@@ -1,6 +1,6 @@
 	//Terminal Military Base created by BoleParty[TGM]
-	
-	  {"Land_Mil_WallBig_4m_F", {14689.2, 16756.2, 0}, 134.5, true},
+    
+    {"Land_Mil_WallBig_4m_F", {14689.2, 16756.2, 0}, 134.5, true},
     {"Land_Mil_WallBig_4m_F", {14692, 16759.1, 0}, 134.5, true},
     {"Land_Mil_WallBig_4m_F", {14694.9, 16762, 0}, 134.5, true},
     {"Land_Mil_WallBig_4m_F", {14697.7, 16764.9, 0}, 134.5, true},
@@ -345,4 +345,4 @@
     {"Land_MobileLandingPlatform_01_F", {14800.6, 16710.4, 0}, 0, true},
     {"Land_JetEngineStarter_01_F", {14776.1, 16686.7, 0}, 0, true},
     {"Land_WheelChock_01_F", {14772.4, 16687.9, 0}, 0, true},
-    {"Land_GarbageBags_F", {14608.8, 16650.7, 0}, 0, true}
+    {"Land_GarbageBags_F", {14608.8, 16650.7, 0}, 0, true},
