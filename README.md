@@ -9,3 +9,9 @@ Just copy/paste the lines from the militarybase.txt to your altis.h file right a
 
 
 Don`t forget the comma behind the helipad line!
+
+In case you need help with installation process just contact me:
+
+info@tacongamingmilita.com or boleparty@tacongamingmilitia.com
+
+Regards
